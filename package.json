@@ -1,5 +1,5 @@
 {
-  "name": "http-wrapper",
+  "name": "@sridharant/http-wrapper",
   "version": "1.0.0",
   "description": "A simple HTTP client wrapper using Axios",
   "main": "src/index.js",
